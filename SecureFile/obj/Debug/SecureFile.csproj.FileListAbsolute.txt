@@ -1,0 +1,20 @@
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\SecureFile.exe
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\SecureFile.pdb
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.csprojResolveAssemblyReference.cache
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.Secure_File.resources
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.Properties.Resources.resources
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.csproj.GenerateResource.Cache
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.exe
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.pdb
+C:\Users\RCCG PC ADMIN\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\FileEncrypt.dll
+C:\Users\RCCG PC ADMIN\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\FileEncrypt.pdb
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.exe
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.pdb
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\SecureFile.exe
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\SecureFile.pdb
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\FileEncrypt.dll
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\bin\Debug\FileEncrypt.pdb
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.csprojResolveAssemblyReference.cache
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.Secure_File.resources
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.Properties.Resources.resources
+E:\Users\Learnuel Tech\Documents\Visual Studio 2015\Projects\SecureFileApp\SecureFile\obj\Debug\SecureFile.csproj.GenerateResource.Cache
